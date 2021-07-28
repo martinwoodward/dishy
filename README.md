@@ -10,3 +10,5 @@ For more information on what Starlink is, see starlink.com and/or the r/Starlink
 
 ![IMG_4217](https://user-images.githubusercontent.com/856858/123491887-ce5d3300-d60f-11eb-85dd-d9a3c537f011.jpg)
 
+## Network Configuration
+Todo
